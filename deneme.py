@@ -1,3 +1,5 @@
 ## deneme
 yeniMetot():	
-	print "Selamun Aleykum"
+	print "SelamunAleykum"
+	
+yeniMetot()
